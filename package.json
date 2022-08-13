@@ -1,0 +1,15 @@
+{
+  "name": "checkers",
+  "version": "1.0.0",
+  "description": "A game of checker written in JS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkers",
+    "js"
+  ],
+  "author": "Andrei K.",
+  "license": "MIT"
+}
